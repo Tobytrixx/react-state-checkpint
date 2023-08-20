@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# In this project I Created a class based component with its state attribute
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
